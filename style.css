@@ -1,0 +1,6 @@
+button[id='nao']:hover{
+    position:relative;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    opacity: 0;
+    cursor: default;
+}
